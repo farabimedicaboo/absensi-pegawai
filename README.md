@@ -178,6 +178,16 @@ Response
 }
 ```
 
+### 5. Approve Cuti & Izin
+
+Endpoint : (PUT Method)
+
+```
+/approve/izin
+```
+
+Form-data: id
+
 ## Testing
 
 1. Clone repo
